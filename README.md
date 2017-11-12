@@ -1,6 +1,6 @@
 # Sheepit
-Script to run the command line version of Sheepit renderer.
+Script to run the command line version of Sheepit renderer. SheepIt is a free distributed renderfarm for Blender. https://www.sheepit-renderfarm.com/
 
 To begin: 
-  1. Set your username in the file.
-  2. Set your password in the file.
+  1. Set username
+  2. Set password
